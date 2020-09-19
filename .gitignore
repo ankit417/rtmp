@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+lib-cov
+coverage
+.grunt
+build/Release
+node_modules
+.lock-wscript
+*.m4s
+*.m3u8
+*.ts
+*.mp4
+*.mpd
+.vscode
